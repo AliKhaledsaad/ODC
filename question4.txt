@@ -1,0 +1,4 @@
+Standard Output (stdout)
+-display program output its index is 1
+Standard Error (stderr)
+-display error codes its index is 2
